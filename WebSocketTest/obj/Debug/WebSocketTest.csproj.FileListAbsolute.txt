@@ -1,0 +1,8 @@
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.exe.config
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.csprojResolveAssemblyReference.cache
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.exe
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.pdb
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.exe
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.pdb
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\bin\Debug\websocket-sharp.clone.dll
+C:\Users\Felo\Documents\大切なファイル\プログラミング\Visual Studio\WebSocketTest\WebSocketTest\bin\Debug\websocket-sharp.clone.xml
