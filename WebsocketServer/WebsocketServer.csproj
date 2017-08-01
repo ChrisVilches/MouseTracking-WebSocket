@@ -7,8 +7,8 @@
     <ProjectGuid>{811D1213-354C-4260-BD20-53D96B1827F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebSocketTest</RootNamespace>
-    <AssemblyName>WebSocketTest</AssemblyName>
+    <RootNamespace>WebsocketServer</RootNamespace>
+    <AssemblyName>WebsocketServer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

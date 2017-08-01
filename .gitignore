@@ -1,4 +1,4 @@
 packages/
-WebSocketTest/obj
-WebSocketTest/bin
+WebsocketServer/obj
+WebsocketServer/bin
 .vs/

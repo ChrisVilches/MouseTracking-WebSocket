@@ -9,3 +9,11 @@ Python necesita el siguiente modulo:
 ```bash
 pip install websocket-client
 ```
+
+El cliente en Node necesita hacer:
+
+```bash
+npm install
+```
+
+Y para el servidor en C# se puede hacer con Visual Studio haciendo click en `ejecutar` el cual automaticamente invoca a NuGet para descargar las dependencias faltantes (y si no, hacerlo manualmente con NuGet).
